@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dead prophet yet speaking a funeral sermon preached at Plaisterers-Hall, Feb. 15, 1690, to the Church of Christ there, upon the sad occasion of the decease of their late Reverend Pastor, Mr. John Faldo / by John Quick ...</title>
+            <author>Quick, John, 1636-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56902</idno>
+            <idno type="STC">Wing Q206</idno>
+            <idno type="STC">ESTC R38018</idno>
+            <idno type="EEBO-CITATION">17161911</idno>
+            <idno type="OCLC">ocm 17161911</idno>
+            <idno type="VID">106046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1099:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dead prophet yet speaking a funeral sermon preached at Plaisterers-Hall, Feb. 15, 1690, to the Church of Christ there, upon the sad occasion of the decease of their late Reverend Pastor, Mr. John Faldo / by John Quick ...</title>
+                  <author>Quick, John, 1636-1706.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Snowden for Thomas Philips ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title printed on p. [1]</note>
+                  <note>Title within mourning border.</note>
+                  <note>Reproduction of original in the National Library of Scotland (Advocates'), Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faldo, John, 1633-1690.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:106046:1"/>
+            <pb facs="tcp:106046:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Dead Prophet yet Speaking.</hi>
+            </p>
+            <p>Being A Funeral Sermon Preached at <hi>Plaiſterers</hi>-Hall on the Deceaſe of their late Reverend Paſtor, Mr. <hi>John Faldo.</hi>
+            </p>
+            <p>By <hi>J. Q.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:106046:2"/>
+            <pb facs="tcp:106046:2" rendition="simple:additions"/>
+            <p>
+               <hi>The Dead Prophet yet Speaking.</hi>
+            </p>
+            <p>A Funeral Sermon Preached at <hi>Plaiſterers</hi>-Hall, <hi>Feb.</hi> 15. 1690. to the Church of Chriſt there, upon the ſad Occaſion of the Deceaſe of their late Reverend Paſtor, Mr. <hi>John Faldo.</hi>
+            </p>
+            <p>By <hi>JOHN Q<g ref="char:V">Ʋ</g>ICK,</hi> Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel in <hi>London.</hi>
+            </p>
+            <q>
+               <p>Infoelix de quo clamabitur; Tollatur impius, ne videat gloriam Dei. — <g ref="char:V">Ʋ</g>tinam nihil unquam vidiſſet oculus meus, ſi illâ (quod avertat Deus) fruſtrandus eſt viſione!</p> 
+               <bibl>Bernhardus de verbis Eſaiae, Sermone 2do p. <hi>61.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The Voice ſaid, Cry. And he ſaid, What ſhall I cry? All Fleſh is Graſs, and all the goodlineſs thereof as the Flower of the Field. — The Graſs withereth, the Flower fadeth; but the Word of our God ſhall ſtand for ever,</p>
+               <bibl>
+                  <hi>Iſa. 40.6, 8.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Snowden</hi> for <hi>Thomas Philips</hi> at the <hi>Seven Stars</hi> in St. <hi>Paul</hi>'s Church-yard. 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106046:3"/>
+            <pb facs="tcp:106046:3"/>
+            <head>For the very Honoured Madam MARY WILLET.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>THE Death of God's Saints and Faithful Miniſters is not at all conſidered by the careleſs World. Little do they know how much they be beholding to their Lives, and what Looſers they are by their Death. <hi>Lot</hi> was a burden to them, ſo thought the wicked <hi>Sodomites,</hi> whilſt he lived among them; and therefore would fain have rid their City of its beſt and greateſt Bleſſing. But no ſooner was he gone, than wrath came upon them to the uttermoſt. We have loſt of late too many of God's Favourites, who ſtood in the Gap; and had power with God to keep off Judg<g ref="char:EOLhyphen"/>ments from us: And when as any one of
+<pb facs="tcp:106046:4"/>theſe Men of God Powerful in Prayer, and mighty Wreſtlers with Heaven are taken from us, we may well cry out with the Pſal<g ref="char:EOLhyphen"/>miſt, <hi>Help! Lord, for the Godly Man ceaſeth;</hi> and as that Prophet ſee<g ref="char:EOLhyphen"/>ing his Maſter Tranſlated into Glory, <hi>My Father! My Father! The Cha<g ref="char:EOLhyphen"/>riots of</hi> Iſrael, <hi>and the Horſemen thereof!</hi> Bleſſed be the Lord, there be yet ſome Pious and Devout Souls in our Nation, and in this City, that when the Righteous periſh do lay it to Heart, and when the Merciful are taken away do con<g ref="char:EOLhyphen"/>ſider, that they be taken from the evil to come, and are therefore weeping over their own and the Churches weakneſs, which hath loſt ſo many <hi>Stakes</hi> out of her Hedge, ſo many <hi>Pillars</hi> out of her Temple, ſo ma<g ref="char:EOLhyphen"/>ny <hi>Buttreſſes</hi> out of her Wall, that ſhould ſupport and ſuſtain her, ſo many <hi>Sons</hi> and <hi>Fathers,</hi> that ſhould inſtruct, cheriſh and comfort her. You, Madam, have
+<pb facs="tcp:106046:4"/>enroll'd your ſelf among the Mourners in our <hi>Zion,</hi> and have been deeply affected with the Deaths of Godly Miniſters and private Chriſtians, which tho' timely to them, (being gathered in reſpect of their Age as Corn in due Seaſon into the Gra<g ref="char:EOLhyphen"/>nary,) yet to us that ſurvive them, muſt needs be very unſeaſonable: Who were it the good will of God ſo to order it, can hardly ſpare them, and would moſt unwil<g ref="char:EOLhyphen"/>lingly part with them in ſuch a day as this is. But it is from the Lord, the Sole and Soveraign Diſpoſer of us, and of all our Comforts, and we muſt acquieſce.</p>
+            <p>Reverend Mr. <hi>Faldo</hi> whilſt living was very Dear to your Godly Parents, (who are now reaping the Fruit of their Great and Ample Charities,) and was as much prized and honoured by your ſelf. This makes me to addreſs his Funeral Sermon to you, and once more to offer that to your Eyes, which you twice heard in one
+<pb facs="tcp:106046:5"/>day with your Ears. I ſurprize you with the Dedication. But that hove and Va<g ref="char:EOLhyphen"/>lue you have for all that fear God, and for the Ambaſſadors of our Lord Jeſus, and which you have abundantly expreſſed to me the leaſt and meaneſt of them all (an He<g ref="char:EOLhyphen"/>reditary Vertue in you) moves me to it. The Lord give you to be a Follower of them, who through Faith and Patience have In<g ref="char:EOLhyphen"/>herited the Promiſes! <hi>I am,</hi>
+            </p>
+            <closer>
+               <salute>Moſt Honoured Madam,</salute> 
+               <signed>
+                  <hi>Your very Humble Servant in the Lord,</hi> John Quick.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106046:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Zachariah 1.</hi> ver. <hi>5.</hi>
+                  </bibl>
+                  <p>Your Fathers where are they? and the Prophets do they live for ever?</p>
+               </q>
+            </epigraph>
+            <p>'TIS an unexpected Providence, and undeſired that hath brought me into this Aſſembly, and put me upon this Service. A very Dear Brother, upon whom this Work lay, earneſtly deſi<g ref="char:EOLhyphen"/>red me to do it for him, he being neceſſita<g ref="char:EOLhyphen"/>ted to be elſewhere, and I could not well deny him. Yet little did I imagine that the laſt time your Reverend Deceaſed Paſtor and my ſelf were together in another place, and familiarly diſcourſing each with other, that it would fall to my Lot to Preach his Funeral Sermon. But the Holy Wiſe Pro<g ref="char:EOLhyphen"/>vidence of God hath ſo brought it about, that I muſt do him this laſt Office of Love, which may the Great God in whoſe Hands are all our Lives, all our Times, by his Ho<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:106046:6"/>Spirit make uſeful and beneficial to your Souls!</p>
+            <p>
+               <hi>Your Fathers where are they? and the Pro<g ref="char:EOLhyphen"/>phets do they live for ever?</hi>
+            </p>
+            <p>Theſe words were ſpoken by the Prophet <hi>Zachary.</hi> We read in Scripture of three <hi>Za<g ref="char:EOLhyphen"/>chary</hi>'s.</p>
+            <p n="1">1. There was <hi>Zachariah</hi> the Son of that good High-Prieſt <hi>Jehojada,</hi> Murdered by his Unnatural and Ungrateful Kinſman, <hi>Joaſh</hi> King of <hi>Judah,</hi> who ill requited his Father that ſav'd his Life, by taking away that of his Godly and Zealous Son. You may read the Story, 2 <hi>Chon.</hi> 24.21. But this was not our Prophet, he was Stoned to death a<g ref="char:EOLhyphen"/>bout four hundred and twenty one years be<g ref="char:EOLhyphen"/>fore the Son of <hi>Iddo</hi> Propheſied.</p>
+            <p n="2">2. There was <hi>Zachariah</hi> the Father of <hi>John</hi> the Baptiſt; but he liv'd about four hundred years after our <hi>Zachary.</hi>
+            </p>
+            <p n="3">3. There was <hi>Zachary</hi> the Son of <hi>Bara<g ref="char:EOLhyphen"/>chias,</hi> the Son of <hi>Iddo. Iddo</hi> his Grandfather return'd from the Captivity of <hi>Babylon</hi> with <hi>Zerubbabel, Nehemiah</hi> 12.4. The Jewiſh Rabbins ſay, That where the Father and Grandfather of a Prophet are mentioned in
+<pb n="3" facs="tcp:106046:6"/>Scripture, it denotes they were alſo Pro<g ref="char:EOLhyphen"/>phets.</p>
+            <p>It was a great Honour to the Family of the <hi>Piſo</hi>'s at <hi>Rome</hi> that for three Generations ſucceſſively they had been Princes of the Se<g ref="char:EOLhyphen"/>nate. And 'twas a very great Honour to <hi>Zachary</hi> that his Father and Grandfather had been Prophets before him. The Spirit of Prophecy ſeemed to run in his Blood, and the Prophetical Office to be entail'd upon him as an Inheritance: Yet did he excel his Fathers in true Honour. If they liv'd Pro<g ref="char:EOLhyphen"/>phets ſo did he alſo. They liv'd Prophets, but he liv'd a Prophet, and dy'd a Martyr. He was ſlain by his ungodly Countreymen for his free Rebuking of their ſins, between the Temple and the Altar, whither he fled for Sanctuary. No place ſo Holy, no per<g ref="char:EOLhyphen"/>ſon ſo Sacred but the wicked will profane and violate in purſuit of their Brutiſh Luſts and Malice, <hi>Matth.</hi> 23.35.</p>
+            <p>How long he Propheſied is not certain; when he began to Prophecy the firſt verſe of this Chapter tells us. It was in the eighth Month, in the ſecond year of <hi>Darius (No<g ref="char:EOLhyphen"/>thus.)</hi> He was contemporary with <hi>Haggai</hi>
+               <pb n="4" facs="tcp:106046:7"/>the Prophet, who began his Miniſtry but two Months before him. See <hi>Hag.</hi> 1.1.</p>
+            <p>The parts of his Prophecy are four.</p>
+            <list>
+               <item>1. Doctrinal, in the ſix firſt verſes of this Chapter.</item>
+               <item>2. Viſional, from the ſeventh verſe to the end of the ſixth Chapter.</item>
+               <item>3. Caſuiſtical, in the ſeventh and eighth Chapters.</item>
+               <item>4. Laſtly, Purely Prophetical, from thence to the end of his Book.</item>
+            </list>
+            <p>The Text is fallen under the firſt Head. In which we have,</p>
+            <p n="1">1. The time of his Prophecy, two Months after his Colleague in the ſame Work and Miniſtry, <hi>Haggai. Haggai</hi> begins in the ſixth Month of the ſecond year of King <hi>Darius. Zachary</hi> follows him in the ſame Work and Office two Months after. God keeps an ex<g ref="char:EOLhyphen"/>act &amp; faithful Regiſter of all the Miniſters he ſends, &amp; of all their Sermons, he orders them Preach unto a people, and of the times and to places when and where, and of the begin<g ref="char:EOLhyphen"/>ning, duration and continuance of their Mi<g ref="char:EOLhyphen"/>niſterial Labours among them. Look to it Sirs, you may take no notice of this: You
+<pb n="5" facs="tcp:106046:7"/>may forget when, and where, and whom you heard. But ſo doth not God. He Records all in his Book of Remembrance, and you ſhall be accountable for it another day.</p>
+            <p>O that you may be able to yield up your Accounts with Joy, and not with Sorrow!</p>
+            <p n="2">2. We have the ſubject matter of his Ser<g ref="char:EOLhyphen"/>mon. And there lye before us but brief Heads, ſhort Minutes of it, and we ſhall as briefly run them over.</p>
+            <p n="1">1. In the ſecond verſe we have a Narrati<g ref="char:EOLhyphen"/>on of God's juſt anger againſt their Anceſ<g ref="char:EOLhyphen"/>tors. <hi>The Lord hath been ſore diſpleaſed with your Fathers.</hi>
+            </p>
+            <p n="2">2. In the third and fourth verſes, we have God's ſummons unto their Children for Re<g ref="char:EOLhyphen"/>pentance, Converſion and Reformation. <hi>There<g ref="char:EOLhyphen"/>fore ſay thou unto them, Thus ſaith the Lord of Hoſts, turn ye unto me, ſaith the Lord of Hoſts, and I will turn unto you, ſaith the Lord of Hoſts. Be ye not as your Fathers, unto whom the for<g ref="char:EOLhyphen"/>mer Prophets have cried, ſaying, Thus ſaith the Lord of Hoſts, turn you now from your evil ways, and from your evil doings, but they did not hear nor hearken unto me, ſaith the Lord.</hi>
+            </p>
+            <p n="3">3. In our Text we have a Dialogue (for
+<pb n="6" facs="tcp:106046:8"/>ſo many Expoſitors read it) between the Prophet and his wicked Auditory.</p>
+            <p n="1">1. The Prophet firſt Queries. Where are your ungodly Fathers? What's become of them? Did not God's Vengeance light upon them, as he had threatned them? They would not believe, nor obey, but rebell'd againſt his Word ſpoken to them by former Pro<g ref="char:EOLhyphen"/>phets; yet did they feel the Verity and Ma<g ref="char:EOLhyphen"/>jeſty, the Truth and terrible Power thereof in their own perſons; for were they not cut off by Deaths? Whence by the way note,</p>
+            <p>That Judgments upon the Fathers do not always work Repentance and Reformation in the Children; they be as bad as they.</p>
+            <p n="2">2. We have his Auditory's reply, by way of Expoſtulation with the Prophet. And you Sir! pray! Where are the Prophets? Do they live for ever? You throw in our Teeth the death of our Anceſtors, and we will al<g ref="char:EOLhyphen"/>ſo as juſtly retort upon you, What is be<g ref="char:EOLhyphen"/>come of thoſe buſie, cenſorious Fellows their Prophets? Are not they gone to their long Home? You ſee God's Judgments Doctri<g ref="char:EOLhyphen"/>nal and Providential on the Parents do find the Children bad, and leave them worſe,
+<pb n="7" facs="tcp:106046:8"/>greater Atheiſts and Deſpiſers of God, his Word, and Miniſters than themſelves.</p>
+            <p>But tho' the Text may be thus read Dia<g ref="char:EOLhyphen"/>logue-wiſe, yet I humbly conceive, It is an Argument urg'd by the Prophet to inforce his Doctrine, aſſerted before in the third and fourth verſes. <hi>Your Fathers where, are they ? And the Prophets do they live for ever?</hi> This double Interrogation muſt be anſwer'd ne<g ref="char:EOLhyphen"/>gatively. No; your Fathers are not. Your Prophets are not. They do not live here for ever. They be dead. But tho' they die, yet the Word of God, preached by your Pro<g ref="char:EOLhyphen"/>phets, that dieth not, it liveth and will live, and take hold of all ſtubborn, unbelieving and diſobedient ſinners. As verſe 6.</p>
+            <p>Whence obſerve theſe two Points of Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <list>
+               <item>Doctrine I. <hi>That <g ref="char:V">Ʋ</g>ngodly Perſons and God<g ref="char:EOLhyphen"/>ly Miniſters are all alike Mortal Creatures.</hi>
+               </item>
+               <item>Doctrine II. <hi>Tho' Miniſters die, yet God's Word from their Mouths never dieth, it lives for ever.</hi>
+               </item>
+            </list>
+            <p>Tho' theſe Points ſhall be opened diſtinct<g ref="char:EOLhyphen"/>ly, yet I ſhall apply them jointly, in caſe time do permit us.</p>
+            <pb n="8" facs="tcp:106046:9"/>
+            <p>Doct. I. <hi>
+                  <g ref="char:V">Ʋ</g>ngodly Perſons and Godly Mini<g ref="char:EOLhyphen"/>ſters are all alike Mortal Creatures.</hi>
+            </p>
+            <p>I need not ſtand to prove this Point, 'twere but to abuſe your time and patience. Who needs a Candle to ſee the Sun at Noonday? The truth of the Doctrine is viſible, and no<g ref="char:EOLhyphen"/>torious to all the World. Eccleſ. 8.8. <hi>There is no Man that hath power over the Spirit to re<g ref="char:EOLhyphen"/>tain the Spirit, neither hath he power in the day of death : And there is no diſcharge in that War; neither ſhall wickedneſs deliver thoſe that are given to it.</hi> Beſides, there are in both the Godly and Ungodly, the Natu<g ref="char:EOLhyphen"/>ral and Moral Cauſes of Mortality, this is alſo undeniable. The matter of our Bodies is made up of contrary humours and quali<g ref="char:EOLhyphen"/>ties; and when their Balance is turn'd, their Temperament broken, the whole Frame and Compages muſt be diſſolv'd, and moulder into duſt: Beſides, ſin is in the beſt, and its wages is death. 'Tis appointed to all Men, to the worſt, and to the beſt once to die, and then to Judgment.</p>
+            <p>But yet there is a vaſt difference between the Wicked and the Godly in their death. We ſee that Wiſe-men die, likewiſe the Fool,
+<pb n="9" facs="tcp:106046:9"/>and the brutiſh perſon periſh. But dieth <hi>Abner</hi> as a Fool? The Saint as the Sinner? No; The two Poles are not at a greater diſtance than theſe are in their deaths. That wretched South-ſayer will aſſure you of it. He, who never cared to live as the Saint, is yet afraid to die as the Sinner, Numb. 23.10. <hi>Let me die the death of the Righteous! and let my laſt end be like unto his.</hi>
+            </p>
+            <p>Queſt. <hi>But wherein lyes the difference?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. The one dieth in his ſins, and in his infidelity and impenitency, without a Pardon. <hi>His own iniquities ſhall take the wicked himſelf,</hi>
+               <note place="margin">Prov. 5.2 23.</note> 
+               <hi>and he ſhall be holden with the Cords of his ſins.</hi> Sins ſhall Arreſt the dying ſinner as ſo many Bayliffts and Serjeants, and drag him as a Pri<g ref="char:EOLhyphen"/>ſoner to God's Tribunal. He ſhall be Fetter'd, Hamper'd, and Manacled by them, ſo that tho' he would fain (as it may be no wicked man would willingly be found in his ſins in the hour of death, but) be rid of them, yet he ſhall not. For ſin as an Officer or Bayliff will keep his Pri<g ref="char:EOLhyphen"/>ſoner. <hi>He ſhall die without Inſtruction,</hi> without Con<g ref="char:EOLhyphen"/>verſion, in all his filth and guilt, and be ſo hurried unto the Bar of Chriſt. Oh! how uncomforta<g ref="char:EOLhyphen"/>ble muſt this needs be unto the ſinner! But ſo doth not the Saint die. None of God's Elect but are either ſooner or later, ſometime in their life,
+<pb n="10" facs="tcp:106046:10"/>and before death, either at the ſixth hour in the dawn of their Youth, or at the ninth in the Flower of their Strength, or at the eleventh the laſt Hour of their Life effectually called, and ſavingly converted.</p>
+            <p n="2">2. The Saints are in Life and Death united unto Chriſt. He is their Head, they his Mem<g ref="char:EOLhyphen"/>bers, he their Root, they his Branches, and the Axe of Death cannot ſunder nor ſever between them. Nay Death befriends them, it carries them into Paradiſe. It uſhers them into the Bride-chamber, it brings them unto the deſire of their Souls, with whom they long to be, and ſhall be for ever. Them that ſleep in Jeſus God wilt bring with Jeſus. The Angels carried the Soul of <hi>Lazarus</hi> into <hi>Abraham</hi>'s, Boſom, into the preſence of God where is fulneſs of Joy, and Ri<g ref="char:EOLhyphen"/>vers of Pleaſure for evermore. But the wicked are buried in Death. They never had any Union with Chriſt living, nor ſhall they when they are dying. They go like <hi>Judas</hi> unto their own place, <hi>Acts</hi> 1.25. far enough from Chriſt, Heaven and Glory. No ſooner is <hi>Dives</hi> dead, but the next news you read of him is that he is in Hell tor<g ref="char:EOLhyphen"/>mented, <hi>Luke</hi> 16.23.</p>
+            <p n="3">3. The one dieth as to his Soul, and Everlaſt<g ref="char:EOLhyphen"/>ing Concerns, ſtupid and ſenſleſs, as <hi>Nabal</hi> whoſe
+<pb n="11" facs="tcp:106046:10"/>Heart grew dead as a ſtone in him, 1 <hi>Sam.</hi> 25.37. Their Spiritual Lethargy kills them. The inju<g ref="char:EOLhyphen"/>dicious World ſay indeed of the ſinner, O! how quietly did he die! He ſlipt away like a Lamb. He had no pangs in his Death. He was not in bitterneſs of Spirit as many others. But this is an horrible miſtake. Senſleſneſs is no quiet<g ref="char:EOLhyphen"/>neſs, ſtupidity of Conſcience is not true ſereni<g ref="char:EOLhyphen"/>ty. True tranquillity of Soul in death flows from the ſence of God's Love, who is reconciled to us in the Blood of Jeſus; and this none but Saints have, who have laid hold of it by Faith, and ran to it under diſtreſs of Soul as to their only City of Refuge, Glorious high Throne, Heavenly and Inviolable Sanctuary.</p>
+            <p>Queſt. <hi>But you will ask of me, Have all God's Saints this inward peace upon their Death-beds?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. No wicked Man hath it at all. If the Child of God has it not, no Child of the De<g ref="char:EOLhyphen"/>vil hath it. Through fancy and ſelf flattery, he may think he has it, and ſo dream himſelf in<g ref="char:EOLhyphen"/>to a Fools Paradiſe; but the firſt and next mo<g ref="char:EOLhyphen"/>ment after death undeceives him, for then he finds himſelf in the midſt, in the very Belly of Hell. <hi>There is no peace, ſaith my God, unto the wicked.</hi>
+            </p>
+            <p n="2">2. Multitudes of Godly Perſons have it, tho' many other's as truely Godly want it, and die
+<pb n="12" facs="tcp:106046:11"/>away without it. God's Holy Spirit is a free A<g ref="char:EOLhyphen"/>gent, and as the wind blows where he liſteth, ſo he ſeals and comforts when and whom he pleaſ<g ref="char:EOLhyphen"/>eth. Our bleſſed Martyr Mr. <hi>Glover</hi> met with the Comforter at the ſtake, and cryed out unto his Man, <hi>Auſtin, He is come! He is come! The Comforter whom I waited for he is come!</hi> St. <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> when he was condemned was ſo raviſhed with Divine Joys, ſo that in the midſt of a ſhow<g ref="char:EOLhyphen"/>er of ſtones which brained him to death, he could joyfully commend his Soul into the Hands of Chriſt, and died praying like his Saviour for his Perſecutors and Murderers, <hi>Acts</hi> 7.55, 56, 57, 58, 59, 60.</p>
+            <p n="3">3. 'Tis a moſt happy miſtake for thoſe poor Saints, who die fearing their Damnation, and yet the next inſtant after death find themſelves as <hi>Elijah</hi> in the Arms of bleſſed Angels, riding poſt in thoſe flying Chariots to Glory. O! my Dear Friends, may you and I be ſo happily mi<g ref="char:EOLhyphen"/>ſtaken! A Godly Miniſter upon his Death-bed laught aloud, and being demanded the reaſon of it, anſwered, <hi>I am thinking, ſaith he, how my Bleſſed Father will be ſurprized to ſee me in Hea<g ref="char:EOLhyphen"/>ven, whom he once gave over for a Reprobate in Earth, and loſt for ever.</hi> So will the fearful, de<g ref="char:EOLhyphen"/>ſponding Saints be happily miſtaken of him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="13" facs="tcp:106046:11"/>and cry out as <hi>Jonas, Out of the Belly of Hell have I cryed, and thou heardeſt my voice. Thou hadſt caſt me into the deep, into the midſt of the Seas, the Floods of wrath compaſſed me, all thy Billows and Waves paſſed over me: I was caſt out of thy ſight, but thou haſt made me to look, again to<g ref="char:EOLhyphen"/>ward thy Holy Temple, O! my God, thou haſt brought up my Soul from the bottomleſs Pit of deſtruction, Jonah,</hi> 2.3, 4, 5, <hi>&amp;c.</hi> I thought I ſhould be damned, but through rich Grace I am now ſaved.</p>
+            <p n="4">4. Sometimes the wicked die under Horrors and Terrors, deſpairing of Mercy, their confi<g ref="char:EOLhyphen"/>dence is rooted out of their Tabernacle, and they be brought unto the King of Terrors, <hi>Job</hi> 18.14. What think you of <hi>Cain</hi> roaring out, <hi>Mine ini<g ref="char:EOLhyphen"/>quities are more than can be forgiven! And my pu<g ref="char:EOLhyphen"/>niſhment greater than can be born!</hi> What think you of <hi>Saul</hi> ſadly groaning? <hi>O! Miſerable that I am, God hath forſaken me, and the Devil will have me; this day I and my Sons ſhall be with him in Hell!</hi> What, think ye of <hi>Judas? I have ſin<g ref="char:EOLhyphen"/>ned! I have ſinned! in betraying my Maſter. He that is the Saviour of the World will be my Judge, and Damn me! His Innocent Blood that reconciles Believers, is like</hi> Abel<hi>'s to me, crying, Wrath! wrath! Eternal vengeance upon me!</hi> What think you of
+<pb n="14" facs="tcp:106046:12"/>the <hi>Sodomites,</hi> who paſt out of one Hell into a<g ref="char:EOLhyphen"/>nother? O! the frights and ſcrieches of thoſe filthy ſinners, burning in their Luſts, and run<g ref="char:EOLhyphen"/>ning from the fiery Streams, and flaming Tor<g ref="char:EOLhyphen"/>rents of Divine Wrath! What think you of the Giants of the old World, howling and yelling under the deluges of God's Vengeance! <hi>Job</hi> 26.5. What think you of <hi>Korah,</hi> and his Schiſ<g ref="char:EOLhyphen"/>matical and Rebellious Grew? Had they peace, confidence and comfort, when the Earth open<g ref="char:EOLhyphen"/>ed her Mouth, and ſwallow'd them up quick, and they went down alive into the Pit of Hell? Their cries and lamentations frighted all <hi>Iſrael</hi> in ſuch a manner, that they fled from them, fear<g ref="char:EOLhyphen"/>ing leſt they ſhould be engulpht in their deſtru<g ref="char:EOLhyphen"/>ction, <hi>Numb.</hi> 16.31, 32, 33, 34.</p>
+            <p>But poſſibly you will ſay theſe were extraor<g ref="char:EOLhyphen"/>dinary Judgments from Heaven, and ſo no Rules for us to walk by. Wherefore to ſilence all queries and clamours for the future, pray do but read and conſider attentively what the Ho<g ref="char:EOLhyphen"/>ly Ghoſt ſaith, <hi>Prov.</hi> 14.32. <hi>The wicked is dri<g ref="char:EOLhyphen"/>ven away in his wickedneſs;</hi> driven away, how? As with a Tempeſt and a furious Whirlwind; before your Pots can feel the Thorns, the burn<g ref="char:EOLhyphen"/>ing wrath of God ſhall take them away one by one with a ſudden deſtruction, they ſhall go
+<pb n="15" facs="tcp:106046:12"/>down to Hell alive, quick into the Pit: <hi>But the Righteous hath hope in his death.</hi>
+            </p>
+            <p>And ſo much for Explication and Confirma<g ref="char:EOLhyphen"/>tion of the Doctrine; let's ſubjoin a word of Application.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Do the Prophets and Godly Miniſters as well as their ungodly Hearers die? Then a Wicked People ſhall not be long bleſt with their Perſons, and Preachings, with their Company and Labours. For, 1. They be too good for them. The World is not worthy of them. The unkind World cries out, <hi>Take away ſuch Fellows! They be not fit to live in it!</hi> Acts 22.22. And God ſaith ſo too, but in another ſence, <hi>The World is not worthy of them, they be too good for Earth, they be Ripe for Heaven, meet and fit to be partakers of an Inheritance with God's Saints in Glory.</hi> Thoſe famous Witneſſes (<hi>Rev.</hi> 11.10, 11, 12.) that the World deſpiſed for their Sack<g ref="char:EOLhyphen"/>cloth and Poverty, and hated for their Doctrine and Propheſie, and rejoiced at their Death and Calamity, ſending Gifts to one another, and Feaſt<g ref="char:EOLhyphen"/>ing each other becauſe theſe their Tormentors were now dead, (tho' yet 'twas but a civil death, a <hi>Bartholomew</hi> Act, that diſabled them from their Work, which was their Life,) yet the voice of God bids them in the ſight and hearing of their
+<pb n="16" facs="tcp:106046:13"/>very Enemies, to come up unto him into Hea<g ref="char:EOLhyphen"/>ven. Come up hither, my dear Saints! my faithful Witneſſes! Come up unto your God in Glory. The World is weary of you. That Dunghil is not worthy to have you. Come up unto your God in Glory!</p>
+            <p n="2">2. As ſoon as their Work is done God will call them home. After Work Reſt, after Labour VVages. There remaineth a Reſt, an Everlaſt<g ref="char:EOLhyphen"/>ing Sabbatiſm for God's Saints. VVe have a little Type and Shadow, a poor Picture-pledge and Earneſt of it in this holy day of reſt. O! but when all our VVork is done, then an Eter<g ref="char:EOLhyphen"/>nal reſt, then God will call upon his Servants, Come enter into your Reſt, into your Maſter's Joy, my dear Saints! There is a Twofold VVork that God's Miniſters have to do.</p>
+            <p n="1">1. A VVork of Conviction and Condemna<g ref="char:EOLhyphen"/>tion. This is a very ſad, burdenſome and un<g ref="char:EOLhyphen"/>comfortable VVork, that inſtead of Preaching Souls out of their ſins, we ſhall only ſhew them to them, make them ſee them, but not leave them. Our Sermons ſhall awaken and ſtartle them, but not renew nor reform them, we ſhall give them a <hi>Piſgah</hi> view of Heaven, but they ſhall nevertheleſs, becauſe of their unbelief never enter into it. To ſome we ſhall be the ſavour
+<pb n="17" facs="tcp:106046:13"/>of death unto death. They ſhall be convinced of their ſins, hardned in their ſins, and by thoſe ſelf-ſame Sermons condemned for their ſins. <hi>Noah</hi> that Preacher of Righteouſneſs did thus convince and condemn the old World, <hi>Heb.</hi> 11.7. O! Sirs, it affrights me to think I ſhould Preach any of you into Hell, and that my ſelf and Sermons ſhould witneſs to your condemna<g ref="char:EOLhyphen"/>tion in the laſt day.</p>
+            <p n="2">2. There is a Work of Converſion and Edifi<g ref="char:EOLhyphen"/>cation God ſometimes ſends us about this Work, this is pleaſing, delightful, and exceeding com<g ref="char:EOLhyphen"/>fortable. <hi>Go,</hi> ſaith God to <hi>Paul and preach at</hi> Co<g ref="char:EOLhyphen"/>rinth, <hi>for I have much people there,</hi> Acts 18.10. <hi>Seedſman!</hi> ſaith Chriſt unto his Miniſter, <hi>go ſcatter the good Seed of my Word in ſuch a Soyl, and it ſhall yield thirty, ſixty, and an hundred fold. Fiſherman! let down thy Net in yonder Pool, and thou ſhalt take many a Fiſh, a multitude of preci<g ref="char:EOLhyphen"/>ous Souls.</hi> O! Sirs, if we can but gain you to Chriſt, and as his Ambaſſadors reconcile you to God, we have our ends, we have done our Work, our Maſters Work, to our great Joy and Con<g ref="char:EOLhyphen"/>ſolation. Now when we have done this Work, fill'd up our number of Converts, as Spiritual Fa<g ref="char:EOLhyphen"/>thers begotten many a Child for God, and built them up in Faith and Holineſs, we ſhall hear our
+<pb n="18" facs="tcp:106046:14"/>Great Lord ſay unto us, <hi>Well done, good and faith<g ref="char:EOLhyphen"/>ful Servants, enter into your Maſters Joy.</hi>
+            </p>
+            <p n="3">3. The ſins of their Hearers, of their people, do oftentimes ſhorten the days of their Miniſters, and many Churches are real Murderers of their moſt Faithful Paſtors.</p>
+            <p>You will ſay poſſibly this is an hard word, and who can bear it? How do Churches Murder their Miniſters? Why Sirs, 1. Not only by ex<g ref="char:EOLhyphen"/>acting Work from them above their Ability; 2. Nor only by denying them due incourage<g ref="char:EOLhyphen"/>ment, and a competency for their ſubſiſtance; Nor yet, 3. By downright killing of them in Perſecution, as both the <hi>Zachary</hi>'s were, and an infinite number of other Faithful Prophets of the Lord were. But, 4. By your ſins. The ſins of the Hearers are our Murderers.</p>
+            <p>But what ſins? I anſwer, 1. Your Non-pro<g ref="char:EOLhyphen"/>ficiency by our Miniſtry. You be God's Huſ<g ref="char:EOLhyphen"/>bandry, and Garden, we are to Manure and Dreſs you; you be God's Building and Temple we are to repair, beautifie and adorn you. 'Twas ſaid of <hi>Auguſtus Caeſar,</hi> that he found <hi>Rome</hi> Brick, but left it Marble. O! what a comfort will it be to our Souls to have found you Earthly, and left you Heavenly! To have found you Sinners, and leave you Saints! We have digg'd about
+<pb n="19" facs="tcp:106046:14"/>you, we have manur'd and dreſt you, ſtudied for you, preached to you, admoniſhed you in publick and private, and what? Shall we have labour'd in vain? When you have been a ſleep<g ref="char:EOLhyphen"/>ing in your Beds, and Sins at midnight, poſſibly your Faithful Miniſters have been upon their Knees weeping and mourning for you, ſtrugling and wreſtling with God in Fervent Prayers for your Souls; and ſhall all theſe Pains and Labours be loſt? Shall we Meditate and Study, Preach and ſpend our Spirits in Prayer in vain, and not for your good? Shall the Lord ſay unto us as to <hi>Moſes</hi> in another caſe, <hi>Speak to me no more, move me no more in this matter for theſe Souls, for theſe Sinners? They be Reprobate Silver, droſs and loſt Creatures, whom the Lord hath rejected for their unprofitableneſs under all the Means of Grace?</hi> Brethren, this cutts us to the quick, and helps to break our Heart. Your Eternal Happineſs would be our Life: The fear of your being undone Eternally is as death unto us, it is killing to us.</p>
+            <p n="2">2. The Pragmaticalneſs of Church-members, who take upon them to contradict and controul their Miniſters. Prepoſterous courſes! God hath made us Teachers and our People will teach their Inſtructors! God hath made us Guides and Lights unto you in the way to Heaven but prag<g ref="char:EOLhyphen"/>matical
+<pb n="20" facs="tcp:106046:15"/>Hearers take upon them Magiſterially enough to direct, dictate, and preſcribe unto their Miniſters, what Doctrine they ſhall Preach, and what not. The Lord takes notice of theſe by the Prophet, <hi>Iſa.</hi> 30.8, 9, 10, 11. <hi>Now go, write it before them in a Table, note it in a Book, that it may be for the time to come for ever and e<g ref="char:EOLhyphen"/>ver. That this is a Rebellious people, lying Chil<g ref="char:EOLhyphen"/>dren, Children that will not hear the Word of the Lord; which ſay to the Seers, ſee not, and to the Prophets propheſie not right things unto us, ſpeak unto us ſmooth things, propheſie deceits.</hi> When a Godly Miniſter had preach'd of Hell unto his Pariſhioners, a great Lady takes him up ſharply enough. <hi>What! Do not you know that my Lord cann't indure to hear ſpeak of death, and are you ſo unwiſe as to preach of the Torments of Hell unto him? Pray learn more wit next, and deliver in publick a Doctrine that ſhall be more edifying and pleaſing to him!</hi> Again, Chriſt hath made us by vertue of our Paſtoral Office Rulers in the Houſe of God, and committed the Keys of Doctrine and Diſcipline to us; but ſorry Mechanicks take upon them to over-rule and correct their Paſtors. We be Watchers for your Souls, and ſome watch for our failings. Jeſus Chriſt hath poſitively commanded you, <hi>Heb.</hi> 13 7. to <hi>re<g ref="char:EOLhyphen"/>member
+<pb n="21" facs="tcp:106046:15"/>them which have the rule over you, who have ſpoken to you the Word of God, to follow their Faith, conſidering the end of their Converſation:</hi> And a<g ref="char:EOLhyphen"/>gain, <hi>Obey them that have the Rule over you, and ſubmit your ſelves, for they watch for your Souls, as they that muſt give account, that they may do it with joy, and not with grief; for that is unprofi<g ref="char:EOLhyphen"/>table for you.</hi> And 1 <hi>Tim.</hi> 5.17. <hi>Let the Elders that Rule well be counted worthy of double honour, eſpecially they who labour in the Word and Doctrine.</hi> I'll not meddle with that Controverſie, whether in the Church there be ſuch an Officer diſtinct from the Paſtor, as the Ruling Elder, I have told my poor thoughts about it elſewhere, 'tis certain the Paſtor is a Ruler in the Church of God, no Civil Officer, he is a Spiritual Officer, not a Magiſtrate but a Miniſter, we Preach our ſelves your Servants for Chriſt's ſake; we are not the Lord's of your Faith, but the Helpers of your Joy, our Miniſtery is not a Saecular Magiſtracy. But tho' we be Spiritual Fathers, your Shepherds, and Elders in Office in the Houſe of God, who are more ſlighted, diſeſteemed and diſobeyed? So far are Church-members from giving their Paſtors their double, that they deny them their ſingle Honour. Brethren, the honour of our Miniſtery and Office muſt be vindicated. We
+<pb n="22" facs="tcp:106046:16"/>have received it for your Edification. We en<g ref="char:EOLhyphen"/>croach not upon your juſt Liberties, but take you heed of invading ours, of overthrowing God's eſtabliſht Mound, and ancient Landmarks. That Eminent Godly Miniſter of the Lord Je<g ref="char:EOLhyphen"/>ſus, old Mr. <hi>Wilſon</hi> of <hi>Boſton</hi> in <hi>New-England</hi> cal<g ref="char:EOLhyphen"/>led this ſin Koraiſm. For lying upon his Death<g ref="char:EOLhyphen"/>bed, and being viſited by the Preaching Elders of that Famous Colony, they deſired that he would ſolemnly declare unto them what he con<g ref="char:EOLhyphen"/>ceived were thoſe ſins which provoked the diſ<g ref="char:EOLhyphen"/>pleaſure of God againſt the Countrey, he then told them, <hi>That among others, Corahiſm was none of the leaſt, which he thus explained, When people riſe up as</hi> Corah <hi>againſt their Miniſters or Elders, as if they took, too much upon them, when indeed they do but rule for Chriſt, and according to Chriſt; yet</hi> ſaid he, <hi>'tis nothing for a Brother to ſtand up, and oppoſe without Scripture or Reaſon the Doctrine and Word of the Elder, ſaying,</hi> I am not ſatisfied. Oh! what a ſad account ſhall we give of ſuch Children, Sheep, and Members of ours unto the Lord Jeſus? when in the day of Judgment we ſhall be askt by him (for we muſt give an account as for our ſelves ſo for you alſo.) How fare my Sheep committed to your Care and Charge in yonder Wilderneſs? How did you
+<pb n="23" facs="tcp:106046:16"/>leave them, when you left the World? My Bre<g ref="char:EOLhyphen"/>thren, what anſwer do you think we ſhall return unto our Lord and Judge concerning you? We tremble to think the truth, the ſad truth we muſt then relate unto him, of the Pride and Self-con<g ref="char:EOLhyphen"/>ceitedneſs, of the Stubbornneſs, Perverſeneſs, and Untractableneſs, of the Unbelief and Diſobedi<g ref="char:EOLhyphen"/>ence of a multitude of our Hearers and Church-Members. I ſpeak it Brethren with Tears, that I fear we ſhall cry as the Prophet did, <hi>Lord! who hath believed our report?</hi>
+               <note place="margin">Iſa. 53.1. Chap. 65.2.</note> 
+               <hi>And to whom hath the Arm of the Lord been revealed? And all the day long have we ſtretched out our hands to a Gain ſay<g ref="char:EOLhyphen"/>ing and Rebellious People. They have deſpiſed both our Perſons and Doctrine.</hi> As ſoon as negligent Hearers are admoniſhed by us of their Duty, and delinquent Members reproved by us for their ſins, they fly in our Faces, leave our Communi<g ref="char:EOLhyphen"/>on, rail at us and revile us, vomiting out the worſt of Lies againſt us, as if we were the worſt of Men. <hi>To whom ſhall we ſpeak, and give warning that they may hear? Behold their Ear is uncircumciſed,</hi>
+               <note place="margin">Jer. 6.10.</note> 
+               <hi>and they cannot hearken: Behold the Word of the Lord is unto them a reproach; they have no delight in it.</hi> I know this hath ſate near the Hearts of ſeveral of God's Miniſters, both formerly and of later times, and filled them with unſpeakable grief to
+<pb n="24" facs="tcp:106046:17"/>the ſhortning of their days. If you ſtand faſt in God, and the practice of Godlineſs we live, we have the end and deſign, and deſire of our Life; for this we wiſh and labour for, even your per<g ref="char:EOLhyphen"/>fection. Our Hearts Deſire and Prayer is that you may be ſaved: And we preach, warning e<g ref="char:EOLhyphen"/>very Man, and teaching every Man in all Wiſ<g ref="char:EOLhyphen"/>dom, that we may preſent every Man perfect in Chriſt Jeſus. But if inſtead of this, you will re<g ref="char:EOLhyphen"/>tain your old ſins, and ſlight our Counſels, and render our poor Labours ineffectual and unſuc<g ref="char:EOLhyphen"/>ceſsful, tho' this will pierce our Souls to the quick, and over-whelm us with grief to the ſhortning of our Lives, yet let me be bold to tell you, ſuch wicked ones ſhall anſwer for it un<g ref="char:EOLhyphen"/>to the Supream Judge, and the Judge is now at the Door.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Are Godly Miniſters Mortal Crea<g ref="char:EOLhyphen"/>tures? Then ſerve your ſelves of them whilſt you have them. Jeſus Chriſt hath given us to you for the ſervice of your Souls. As I ſaid but now, ſo I repeat it again; we preach our ſelves your Servants for Chriſt's ſake; make uſe of us then for your Souls good. God hath tinded us up poor Lamps, poor Candles in the Golden Can<g ref="char:EOLhyphen"/>dleſticks of our Churches, receive Light, and Heavenly Inſtruction from us. We deſire to
+<pb n="25" facs="tcp:106046:17"/>guide you by the Divine Councils, and to feed you with the Coeleſtial Manna, and do bring unto you the beſt news in the World, the glad-tydings of Salvation. O! let our Perſons, our Meſſage be acceptable to you. How beautiful are the Feet of them that publiſh the glad-tydings of Salvation? You ſhould ſay unto us as <hi>Laban</hi> did to <hi>Abraham</hi>'s Servant, (for we come unto you upon the like Errand to Eſpouſe and Marry you unto Chriſt) <hi>Come in, ye bleſſed of the Lord, wherefore ſtand you without?</hi> When the Jeſuites firſt came into <hi>Portugal,</hi> they were called the A<g ref="char:EOLhyphen"/>poſtles of <hi>Portugal,</hi> and entertained with all imaginable honour. Strange! that a Crew of ſelf-ſeeking, and deceiving Idolaters ſhould be ca<g ref="char:EOLhyphen"/>reſſed and Embraced, and the Ambaſſadors of Chriſt ſtand waiting, and weeping without, at your Doors. We are, Sirs, Chriſts Ambaſſadors, and we come upon this Errand to you, and be<g ref="char:EOLhyphen"/>ſeech you to liſten to it, to reconcile you unto God. You are by nature his Enemies, and 'tis very dangerous for you. O! become his Friends. Be you reconciled unto God. And the rather do this, becauſe you ſhall not have us always with you. We are Mortal, we are dying now whilſt we are living and preaching to you. My Race is well nigh run, my Work is well nigh finiſhed,
+<pb n="26" facs="tcp:106046:18"/>the Sands in the Glaſs of my Life are almoſt out. Walk in the Light whilſt you have the Light. The Prophets don't live for ever.</p>
+            <p>Queſt. <hi>But how ſhall we uſe and ſerve our ſelves of our Miniſters?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Be ſwift to hear, ſlow to wrath. God hath made us Preachers, and you Hearers, we ſhould not preach to empty Houſes, and naked Walls. Church-members ſhould be ordinarily Hearers of their own Miniſters. Neglect no op<g ref="char:EOLhyphen"/>portunities that you can conveniently have and ſpare for this Duty. If we are to preach in ſeaſon and out of ſeaſon, to be inſtant in Exhortation and Doctrine, you muſt lend us your Ears. <hi>Bleſſed are they that watch at Wiſdoms Gates, and wait daily at the Poſts of her Doors.</hi>
+            </p>
+            <p n="2">2. Rejoice in our Light, Doctrine, and Con<g ref="char:EOLhyphen"/>verſation. <hi>Herod</hi> heard <hi>John</hi> the Baptiſt with de<g ref="char:EOLhyphen"/>light. His Perſon and Preaching was very ſweet and pleaſing to him, yea and to the Jews alſo, for he was a burning and ſhining Light, and they rejoiced in his Light for a time, <hi>John</hi> 5.35.</p>
+            <p n="3">3. Frequently conſult with your Paſtors in private about your Souls, and your Eſtate to God-ward. When you find inward ſtruglings and perplexities within you as to your Everlaſt<g ref="char:EOLhyphen"/>ing condition, do as <hi>Rebekah</hi> did, go and con<g ref="char:EOLhyphen"/>ſult
+<pb n="27" facs="tcp:106046:18"/>with God by us. Ask the counſel and mind of God for you from us. There ſhould not be that ſtrangeneſs that is between Paſtor and Peo<g ref="char:EOLhyphen"/>ple, but a ſweet intimacy and holy familiarity as between Children and their Fathers. Come to us with ſuch queſtions as theſe, <hi>Oh! Sirs, What ſhall we do to be ſaved? Is this work that is wrought in me a ſaving or a common work? Inform and direct me, that I may not miſcarry in Converſion, nor be miſtaken as to my Right and Title to Heaven and Glory.</hi>
+            </p>
+            <p n="4">4. Never let us go out of your Houſes with<g ref="char:EOLhyphen"/>out leaving our bleſſing with you. The old Pu<g ref="char:EOLhyphen"/>ritans would not let their Paſtors go without praying with them, and praying for them.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. Are Godly Miniſters and Ungodly Hearers both all alike dying Creatures? Then look to it, that you be not number'd in your Deaths with Godleſs Hearers. O! ſaith <hi>Balaam, Let me die the death of the Righteous, and my lat<g ref="char:EOLhyphen"/>ter end like unto theirs!</hi> A young Man ſeeing the happy end of St. <hi>Ambroſe</hi> Biſhop of <hi>Millain,</hi> turning to his Boon Companions, <hi>I would,</hi> ſaid he, <hi>fain live with you, but die with</hi> Ambroſe. There had been ſome picks and quarrels between <hi>Mac<g ref="char:EOLhyphen"/>covius</hi> Profeſſor of Divinity at <hi>Franequer</hi> in <hi>Friſe<g ref="char:EOLhyphen"/>land,</hi> and our Pious Learned <hi>Ames,</hi> which made
+<pb n="28" facs="tcp:106046:19"/>our Reverend Countryman to quit that Univer<g ref="char:EOLhyphen"/>ſity: But when <hi>Maccovius</hi> heard of his death, he cries out, <hi>May my Soul when it leaves this Body be where Bleſſed Dr.</hi> Ames <hi>is!</hi> O! Sirs, 'twill be your happineſs to be with all the Holy Prophets, Apoſtles and Evangeliſts, with the Glorious Company of innumerable Angels, and with the Bleſſed Spirit's of God's Miniſters, thoſe juſt men made perfect. That Bleſſed Society which is in Heaven is the ſweets of Heaven. <hi>I ſhall only change my place, not my Company,</hi> ſaid dying Dr. <hi>Preſton.</hi> He left imperfect for perfect Saints. The Communion of Saints in Glory, next to the E<g ref="char:EOLhyphen"/>ternal Injoyment of God, is the Paradiſe of Heaven. O! Labour for it.</p>
+            <p>Queſt. <hi>But how ſhall we get our ſelves among them in Death?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Conſider their Faith, and the end of their Converſation. God hath made your Mini<g ref="char:EOLhyphen"/>ſters your Examples both in Life and Death. Be you Followers of them as they be of Chriſt. <hi>Whatſoever things are true, whatſoever things are honeſt, whatſoever things are juſt, whatſoever things are pure, whatſoever things are lovely, whatſoever things are of good report: If there be any vertue, and if there be any praiſe, thinks on theſe things. Thoſe things which ye have both learned and re<g ref="char:EOLhyphen"/>ceived,
+<pb n="29" facs="tcp:106046:19"/>and heard, and ſeen in me, do: And the God of peace ſhall be with you.</hi>
+            </p>
+            <p n="2">2. Let not our Sermons be buried with us in our Graves. Let not thoſe hundreds of Sermons you have heard from your two Learned and Faithful Miniſters die with them. Have them al<g ref="char:EOLhyphen"/>ways in remembrance. Let them live in your minds and memories, 2 <hi>Pet.</hi> 1.12, 15.</p>
+            <p n="3">3. Let our Word, which yet is not our's but God's, ever live in your Hearts and Affections. <hi>O! how do I love thy Word! 'tis my Meditation all the day long,</hi> ſaid that Royal Prophet, <hi>Pſal.</hi> 119.97, 103, 113, 127, 140. If you will love and live God's Word, do and practiſe it, you will be guided by the beſt of Counſels, and infalli<g ref="char:EOLhyphen"/>bly brought unto Glory.</p>
+            <p n="4">4. Let our Sermons be copied out in your Converſations; hold you forth in them the Word of Life unto all that ſee and obſerve you. This renders God's Word on your part, and as much as in you lyeth Immortal, and fitteth you for bleſſed Immortality. Tho' the Preachers die, yet in this manner God's Word never dies, and the Preacher's themſelves will ſeem to be alive. I'le ſhut up all with theſe words of the Apoſtles, 2 <hi>Cor.</hi> 3.1, 2, 3. <hi>Do we begin again to commend our ſelves? Or need we as ſome others Epiſtles of
+<pb n="30" facs="tcp:106046:20"/>Commendation to you, or Letters of Commendation from you? Ye are our Epiſtle written in our Hearts, known and read of all men: For as much as ye are manifeſtly declared to be the Epiſtle of Chriſt, mi<g ref="char:EOLhyphen"/>niſtred by us, written not with Ink, but with the Spirit of the Living God; not in Tables of Stone, but in Fleſhly Tables of the Heart.</hi>
+            </p>
+            <p>And if you are thus the Epiſtle of Chriſt, and our Miniſtery unto your Souls is the Miniſtery of the Spirit of Life, you may reſt aſſured that Godly Miniſters and Godly Hearers ſhall be as <hi>Saul</hi> and <hi>Jonathan</hi> lovely in their Lives, nor ſhall they in Death be divided.</p>
+            <p>I have done with my Sermon, yet I cannot but ſpeak ſomething of your late Reverend, and now Glorified Paſtor, tho' by reaſon the time is paſt, it will be but very little.</p>
+            <p n="1">1. He was a Man of ſingular Moderation, and of a very peaceable Spirit. If the Peace-ma<g ref="char:EOLhyphen"/>kers are bleſſed, and ſhall be called the Children of God, then Bleſſed is Mr. <hi>Faldo,</hi> who had an eſpecial hand in the healing of our Breaches, which, Glory be unto God's Holy Name, are to the Mutual Joys of all the Saints now compoſed, and thoſe two great divided Parties in this Na<g ref="char:EOLhyphen"/>tion, and that had been ſo for above Forty years, are now once again United, and become one,
+<pb n="31" facs="tcp:106046:20"/>and we ſhall no more for the future hear of thoſe unhappy Terms of Diſtinction and Separation, Presbyterian and Independent, but we ſhall be called as the Primitive Church of <hi>Antioch</hi> by his Name who hath Redeemed us, and Anointed us with his Holy Spirit, even Chriſtians.</p>
+            <p n="2">2. He was a ſtout Aſſertor of Ancient, Primi<g ref="char:EOLhyphen"/>tive Truths in Doctrine and Worſhip. He con<g ref="char:EOLhyphen"/>tended earneſtly for the Faith once delivered un<g ref="char:EOLhyphen"/>to the Saints, and was a Zealous Champion for it againſt the Impious Errors, and Damnable O<g ref="char:EOLhyphen"/>pinions of a Deluded, Seduced Party in this Land. His Learned Labours Polemical with them, Practical and Devotional for the uſe of others do praiſe him in the Gate, and by theſe as Righteous <hi>Abel,</hi> tho' dead, he yet ſpeaketh.</p>
+            <p n="3">3. He was a conſtant Labourer, and very painful in his Lord's Vineyard, and the very firſt that entered publickly upon it before the laſt In<g ref="char:EOLhyphen"/>dulgence by King <hi>James</hi> the Second. And his Great Maſter found him in his Work. There the Gripes and Stone aſſaulted him, which at laſt kil<g ref="char:EOLhyphen"/>led him. <hi>Bleſſed is that Servant, whom when his Lord comes he finds ſo doing!</hi>
+            </p>
+            <p>I cannot but condole your loſs, and the Churches loſs, and pardon theſe Tears, my own particular loſs. I have been ſo unhappy as to
+<pb n="32" facs="tcp:106046:21"/>looſe in your two Succeſſive Holy and Reverend Paſtors two very Worthy and Dear Friends.</p>
+            <p>I pray God, my Brethren, that as you had a Learned and Pious <hi>Faldo</hi> to ſucceed your Bleſ<g ref="char:EOLhyphen"/>ſed Mr. <hi>Partridge,</hi> ſo you may have another; who may Excel them both in Gifts and Graces, in all Miniſterial Indowments, and Paſtoral A<g ref="char:EOLhyphen"/>bilities.</p>
+            <p>But my Dear Brethren, ſuch a Paſtor as Re<g ref="char:EOLhyphen"/>verend Mr. <hi>Faldo</hi> is Forty years a making.</p>
+            <p>However, I beſeech you be not too long in making your Choice, and filling up your Va<g ref="char:EOLhyphen"/>cancy. Either Incorporate with ſome other Church, or call in ſpeedily another Paſtor. There be ſome young Men of great Hopes, of Emi<g ref="char:EOLhyphen"/>nent Parts and Piety that are yet unimploy<g ref="char:EOLhyphen"/>ed. If any one ask why they are idle this time a-day, they will reply, Becauſe none hath hired us. Pray get one of them; ſome One may be had.</p>
+            <p>The Lord, God of Wiſdom Lead, Guide, and Direct you in your way! And give you a Paſtor after his own Heart, that may feed you with Knowledge and Underſtanding! <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106046:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
